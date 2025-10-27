@@ -85,7 +85,7 @@ When I am not coding, you'll find me on the tennis court or football field. Thes
 
 ## 📫 Let's Connect!
 
-Iam actively seeking opportunities in **software development** with a focus on building robust, production-ready systems. Feel free to reach out!
+I am actively seeking opportunities in **software development** with a focus on building robust, production-ready systems. Feel free to reach out!
 
 - 📧 Email: vineeshmittal19@gmail.com
 - 💼 LinkedIn: [Connect with me](https://www.linkedin.com/in/vineeshmittal1/)
