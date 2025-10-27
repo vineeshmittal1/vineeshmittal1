@@ -3,9 +3,6 @@
 <div align="center">
   
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vineeshmittal1/)
-[![LeetCode](https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black)](https://leetcode.com/u/vineeshmittal1/)
-[![Codeforces](https://img.shields.io/badge/Codeforces-445f9d?style=for-the-badge&logo=Codeforces&logoColor=white)](https://codeforces.com/profile/vineeshmittal19)
-[![CodeChef](https://img.shields.io/badge/Codechef-%23B92B27.svg?&style=for-the-badge&logo=Codechef&logoColor=white)](https://www.codechef.com/users/vineeshmittal1)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:vineeshmittal19@gmail.com)
 
 </div>
@@ -73,7 +70,7 @@
 ## 🌟 Achievements
 
 - 🥇 **National Winner** - Code With Cisco Hackathon 2025 (30,000+ participants)
-- 🎯 **1600+ problems** solved across competitive programming platforms
+- 🎯 **1200+ problems** solved across competitive programming platforms
 - 📈 **99.6 percentile** in JEE MAINS 2022
 
 ## 🎓 What I'm Working On
