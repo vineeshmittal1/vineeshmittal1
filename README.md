@@ -46,14 +46,14 @@
 
 | Platform | Max Rating |
 |----------|-----------|
-| 🔵 **LeetCode** | **2039** (Knight) | 
-| 🟣 **Codeforces** | **1657** (Expert) | 
-| ⭐ **CodeChef** | **1945** (4-Star) | 
-
+| 🔵 [**LeetCode**](https://leetcode.com/u/vineeshmittal1/) | **2039** (Knight) | 
+| 🟣 [**Codeforces**](https://codeforces.com/profile/vineeshmittal19) | **1657** (Expert) | 
+| ⭐ [**CodeChef**](https://www.codechef.com/users/vineeshmittal1) | **1945** (4-Star) | 
 
 **Total Problems Solved: 1200+**
 
 </div>
+
 
 ## 🎯 Featured Projects
 
