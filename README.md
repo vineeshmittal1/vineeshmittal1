@@ -44,13 +44,12 @@
 
 <div align="center">
 
-| Platform | Max Rating | Problems Solved | Achievement |
-|----------|-----------|-----------------|-------------|
-| 🔵 **LeetCode** | **2039** (Knight) | **600+** | Global Rank 346 (Biweekly 159) |
-| 🟣 **Codeforces** | **1657** (Expert) | **650+** | Active Problem Solver |
-| ⭐ **CodeChef** | **1945** (4-Star) | **400+** | Global Rank 67 & 91 (Starters) |
+| Platform | Max Rating |
+|----------|-----------|
+| 🔵 **LeetCode** | **2039** (Knight) | 
+| 🟣 **Codeforces** | **1657** (Expert) | 
+| ⭐ **CodeChef** | **1945** (4-Star) | 
 
-![LeetCode Stats](https://leetcard.jacoblin.cool/your-username?theme=dark&font=Nunito&ext=contest)
 
 **Total Problems Solved: 1200+**
 
