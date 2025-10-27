@@ -1,4 +1,4 @@
-# Hi there, I'm Vineesh Mittal! 👋
+# Hi there, I am Vineesh Mittal! 👋
 
 <div align="center">
   
@@ -15,9 +15,6 @@
 🎓 BTech in Information Technology @ **IIIT Allahabad** (CGPA: 9.12/10)
 
 💼 **Ex-Software Engineering Intern @ Cult.fit (Curefit)**
-- Redesigned employee performance platform with AI-powered analytics
-- Optimized Java Spring Boot applications, reducing latency by 40%
-- Deployed scalable services using Kubernetes across production environments
 
 🏆 **National Winner - Code With Cisco Hackathon 2025** (30,000+ participants)
 
@@ -27,6 +24,7 @@
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
 ### Frameworks & Technologies
@@ -46,13 +44,15 @@
 
 <div align="center">
 
-| Platform | Rating | Problems Solved | Achievement |
-|----------|--------|-----------------|-------------|
+| Platform | Max Rating | Problems Solved | Achievement |
+|----------|-----------|-----------------|-------------|
 | 🔵 **LeetCode** | **2039** (Knight) | **600+** | Global Rank 346 (Biweekly 159) |
 | 🟣 **Codeforces** | **1657** (Expert) | **650+** | Active Problem Solver |
 | ⭐ **CodeChef** | **1945** (4-Star) | **400+** | Global Rank 67 & 91 (Starters) |
 
-**Total Problems Solved: 1600+**
+![LeetCode Stats](https://leetcard.jacoblin.cool/your-username?theme=dark&font=Nunito&ext=contest)
+
+**Total Problems Solved: 1200+**
 
 </div>
 
@@ -82,15 +82,14 @@
 - 🔭 Building scalable backend systems and ML-powered applications
 - 🌱 Learning advanced system design and distributed systems
 - 👯 Open to collaborating on open-source projects
-- 💬 Ask me about **Node.js, Spring Boot, Machine Learning, or Competitive Programming**
 
 ## 🎾 Beyond Code
 
-When I'm not coding, you'll find me on the tennis court or football field. These sports help me stay focused, disciplined, and maintain my competitive edge!
+When I am not coding, you'll find me on the tennis court or football field. These sports help me stay focused, disciplined, and maintain my competitive edge!
 
 ## 📫 Let's Connect!
 
-I'm actively seeking opportunities in **software development** with a focus on building robust, production-ready systems. Feel free to reach out!
+Iam actively seeking opportunities in **software development** with a focus on building robust, production-ready systems. Feel free to reach out!
 
 - 📧 Email: vineeshmittal19@gmail.com
 - 💼 LinkedIn: [Connect with me](https://www.linkedin.com/in/vineeshmittal1/)
