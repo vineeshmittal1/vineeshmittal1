@@ -11,7 +11,7 @@
 
 🎓 BTech in Information Technology @ **IIIT Allahabad** (CGPA: 9.12/10)
 
-💼 **Ex-Software Engineering Intern @ Cult.fit (Curefit)**
+💼 **Software Engineering Intern @ Curefit**
 
 🏆 **National Winner - Code With Cisco Hackathon 2025** (30,000+ participants)
 
